@@ -5,8 +5,8 @@ Author URI : http://www.wpfreeware.com/
 ========================================*/
 
 .scrollToTop {
-  background-color: #ffd133;
-  border:1px solid #ffd133;
+  background-image: linear-gradient(to right top, #051937, #004d7a, #008793, #00bf72, #a8eb12);
+  border:1px solid #3fc35f;
 }
 .scrollToTop:hover, .scrollToTop:focus,.readmore_area a::before,.sl-slider h2> strong,.sl-slider p> strong,
 .single-top-feature .readmore_area a span,.service-icon-effect,.service-icon .service-icon-effect:hover,.single-service>h3 a:hover,.single-service>h3 a:focus,
@@ -18,11 +18,11 @@ Author URI : http://www.wpfreeware.com/
 .similar-post .media-body a:hover,.similar-post > h2,.nav-tabs > li.active > a, .nav-tabs > li.active > a:focus, .nav-tabs > li.active > a:hover,
 .button--itzel .button__icon,.button--itzel > span,#myModal .modal-title,
 .form-submit input:hover,.error-page-area h1,.error-page-area h3{
-  color: #ffd133;   
+  color: #3fc35f;   
 }
 .navbar-default {
-  background-color: #ffd133;
-  border-color: #ffd133; 
+  background-image: linear-gradient(to right top, #051937, #004d7a, #008793, #00bf72, #a8eb12);
+  border-color: #3fc35f; 
 }
 .navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:focus, .navbar-default .navbar-nav > .active > a:hover,
 .navbar-default .navbar-nav > .open > a, .navbar-default .navbar-nav > .open > a:focus, .navbar-default .navbar-nav > .open > a:hover,
@@ -31,22 +31,22 @@ Author URI : http://www.wpfreeware.com/
 .single-top-feature .readmore_area a::before,.testimonial-nav .slick-dots li.slick-active,figure.blog-figure .image-effect::before,
 .footer-middle,.social-share ul li > a,.custom-panel .panel-heading a,.nav-tabs > li > a,a.gallery-iteam .image-effect::before,.comments-title::after,
 .reply-btn,.author-tag  {
-  background-color: #ffd133;  
+  background-image: linear-gradient(to right top, #051937, #004d7a, #008793, #00bf72, #a8eb12);
 }
 .navbar-right .dropdown-menu,.navbar-nav .open .dropdown-menu,
 .wp-form-control:focus {
-  border: 1px solid #ffd133; 
+  border: 1px solid #3fc35f; 
 }
 .navbar-right .dropdown-menu::before {
-  border-left: 1px solid #ffd133;
-  border-top: 1px solid #ffd133;
+  border-left: 1px solid #3fc35f;
+  border-top: 1px solid #3fc35f;
 }
 .nav-arrows span:hover {
-  border-color: #ffd133;
-  color: #ffd133;
+  border-color: #3fc35f;
+  color: #3fc35f;
 }
 .line {
-  border-bottom: 2px solid #ffd133;
+  border-bottom: 2px solid #3fc35f;
   background: none repeat scroll 0 0 transparent;
   height: 1px;
   margin: 0 auto 45px;
@@ -69,132 +69,132 @@ Author URI : http://www.wpfreeware.com/
   margin-left: -6px;
 }
 .line::after {
-  border-top-color: #ffd133;
+  border-top-color: #3fc35f;
   border-width: 8px;
   margin-left: -8px;
 }
 .service-icon .service-icon-effect {
-  box-shadow: 0 0 0 4px #ffd133;
+  box-shadow: 0 0 0 4px #3fc35f;
 }
 .service-icon .service-icon-effect:after {
-  box-shadow: 3px 3px #ffd133;
+  box-shadow: 3px 3px #3fc35f;
 }
 .media-icon {
-  background-color: #ffd133;
-  border: 2px solid #ffd133;
+  background-color: #3fc35f;
+  border: 2px solid #3fc35f;
 }
 .doctors-nav figure button:hover{
-  border-color: #ffd133;
-  color:#ffd133;
+  border-color: #3fc35f;
+  color:#3fc35f;
 }
 .single-doctor-social > a:hover{
-  color: #ffd133;
-  border-color: #ffd133;
+  color: #3fc35f;
+  border-color: #3fc35f;
 }
 .testimonial-img {
-  border: 3px solid #ffd133;  
+  border: 3px solid #3fc35f;  
 }
 .testimonial-nav .slick-dots li,.blog-content .readmore_area a,.wp-form-control,
 .button--itzel::before,.error-page-area .readmore_area a {
-  border: 2px solid #ffd133;
+  border: 2px solid #3fc35f;
 } 
 .tag-nav a:hover,.tag-nav a:focus{
-  background-color: #ffd133;
-  border-color: #ffd133;
+  background-color: #3fc35f;
+  border-color: #3fc35f;
 }
 .footer-service li > a{
-  border-bottom: 1px solid #ffd133;
+  border-bottom: 1px solid #3fc35f;
 }
 .footer-copyright>p>a:hover{
- border-bottom: 1px solid #ffd133; 
+ border-bottom: 1px solid #3fc35f; 
 }
 .footer-social a {
-  border: 1px solid #ffd133;
-  color: #ffd133;
+  border: 1px solid #3fc35f;
+  color: #3fc35f;
 }
 .footer-bottom p a:hover,.footer-bottom p a:focus{
-  border-color: #ffd133;
-  color: #ffd133;
+  border-color: #3fc35f;
+  color: #3fc35f;
 }
 .blog-pagination .pagination > li > a:focus, .blog-pagination .pagination > li > a:hover, .blog-pagination .pagination > li > span:focus,
 .blog-pagination .pagination > li > span:hover {
-  background-color: #ffd133;
-  border-color: #ffd133;
+  background-color: #3fc35f;
+  border-color: #3fc35f;
 }
 .sidebar-widget h3::after {
-  background: none repeat scroll 0 0 #ffd133;
+  background: none repeat scroll 0 0 ;
 }
 .archives li > a:hover {
-  background-color: #ffd133;
-  border-color: #ffd133;
+  background-color: #3fc35f;
+  border-color: #3fc35f;
 }
 .postnav-left a:hover, .postnav-right a:hover {
-  border: 1px solid #ffd133;  
-  color: #ffd133;  
+  border: 1px solid ;  
+  color: #3fc35f;  
 }
 .postnav-left:hover .prev-icon,.postnav-right:hover .next-icon{
-  color: #ffd133;
-  border-color: #ffd133;
+  color: #3fc35f;
+  border-color: #3fc35f;
 }
 .post-author > h3 {
-  border-bottom: 1px solid #ffd133;
-  color: #ffd133;  
+  border-bottom: 1px solid #3fc35f;
+  color: #3fc35f;  
 }
 .author-morepost:hover,.author-morepost:focus {
-  border-bottom: 1px solid #ffd133;
-  color: #ffd133; 
+  border-bottom: 1px solid #3fc35f;
+  color: #3fc35f; 
 }
 .nav-tabs > li > a:hover,.nav-tabs > li > a:focus{
-  background-color: #ffd133;
-  border-color: #ffd133;  
+  background-color: #3fc35f;
+  border-color: #3fc35f;  
 }
 .form-submit input {
-  background-color: #ffd133;
-  border: 1px solid #ffd133;
+  background-color: #3fc35f;
+  border: 1px solid ;
 }
 .pswp__caption__center {
-  color: #ffd133 !important;
+  color:  #3fc35f !important;
 }
 .pswp__button--arrow--left::before, .pswp__button--arrow--right::before {
-  background-color: #ffd133 !important;    
+  background-color:#3fc35f !important;    
 }
 .comments-pagination li a:hover {
-  background-color:#ffd133;
-  border-color: #ffd133; 
+  background-color:#3fc35f;
+  border-color: #3fc35f; 
 }
 #respond input[type="text"]:focus,#respond input[type="email"]:focus,#respond input[type="url"]:focus {
-  border-color: #ffd133;
+  border-color: #3fc35f;
 }
 #respond textarea:focus{
-  border-color: #ffd133;
+  border-color: #3fc35f;
 }
 .blog-details .table-hover tbody tr:hover{
-  background-color: #ffd133;
-  border-color: #ffd133;
+  background-color: #3fc35f;
+  border-color: #3fc35f;
 }
 .blog-details>a:hover,
 .blog-details>a:focus,
 .blog-details > p>a:hover,
 .blog-details > p>a:focus{
-  color: #ffd133;
-  border-bottom: 1px solid #ffd133;
+  color: #3fc35f;
+  border-bottom: 1px solid #3fc35f;
 }
 .testimonial-parg::before {
-  color: #ffd133;  
+  color: #3fc35f;  
 }
 .testimonial-parg:after{ 
-  color: #ffd133;
+  color: #3fc35f;
 }
 .top-slider .slick-prev:hover,
 .top-slider .slick-next:hover{
-  border-color: #ffd133;
-  color: #ffd133;
+  border-color: #3fc35f;
+  color: #3fc35f;
 }
 .slider-text h2>strong{
-  color: #ffd133;
+  color: #3fc35f;
 }
 .slider-text p>strong{
-  color: #ffd133;
+  color: #3fc35f;
 }
 
 /*=======================================
